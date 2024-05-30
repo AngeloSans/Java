@@ -1,4 +1,4 @@
-package POO;
-
-public class Abstract {
-}
+//package POO;
+//
+//public class Abstract {
+//}
